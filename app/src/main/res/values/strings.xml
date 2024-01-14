@@ -1,0 +1,20 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_name">Note Take</string>
+    <string name="addNote">Add New Note</string>
+    <string name="hint">Title</string>
+    <string name="note">Enter your message</string>
+    <string name="developer">Design and Develop \n By Bhagwan Jha</string>
+    <string name="welcome">Hello, \n Welcome Back</string>
+    <string name="message">Hey there \n Let\'s get Started</string>
+    <string name="enterEmail">Enter your E-mail Address</string>
+    <string name="enterPassword">Enter your Password</string>
+    <string name="notAccountYet">Already have an Account?</string>
+    <string name="notYet">Don\'t have an Account</string>
+    <string name="login">Login</string>
+    <string name="signUp">Create Account</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="createAccount">Create Account</string>
+    <string name="delete">Delete Note</string>
+</resources>

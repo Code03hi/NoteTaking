@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132789067941",
+    "project_id": "note-app-edbd2",
+    "storage_bucket": "note-app-edbd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132789067941:android:846d2e8b02b101044d2d4c",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj9lfPOMtPGO-3RA0XsXr4o2lp-9qF6rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

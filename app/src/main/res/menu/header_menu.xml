@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:checkable="true"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home"
+            android:id="@+id/home">
+        </item>
+
+        <item
+            android:checkable="true"
+            android:icon="@drawable/ic_menu_explore"
+            android:title="Exlpore"
+            android:id="@+id/explore">
+        </item>
+
+        <item
+            android:checkable="true"
+            android:icon="@drawable/ic_menu_subscription"
+            android:title="Subscription"
+            android:id="@+id/subscription">
+        </item>
+
+        <item
+            android:checkable="true"
+            android:icon="@drawable/ic_menu_library"
+            android:title="Library"
+            android:id="@+id/library">
+        </item>
+
+    </group>
+
+    <item
+        android:title="Other Option">
+        <menu>
+            <item
+                android:checkable="true"
+                android:icon="@drawable/ic_menu_setting"
+                android:title="Setting"
+                android:id="@+id/setting">
+            </item>
+
+            <item
+                android:checkable="true"
+                android:icon="@drawable/ic_menu_account"
+                android:title="My Account"
+                android:id="@+id/account">
+            </item>
+        </menu>
+    </item>
+</menu>
